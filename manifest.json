@@ -1,2 +1,9 @@
-{ "version":"3.1.2", "systemType":"RigNegar", "file":"firmware-3.1.2.enc",
-  "plainSize":1518443 }
+{
+  "version": "3.1.2",
+  "systemType": "RigNegar",
+  "file": "firmware-3.1.2.enc",
+  "encSize": 1466064,
+  "plainSize": 1465552,
+  "plainSha256": "b079ec7ae4505241f89867c7e4097b520bab6bc61d5935cddd7b8a861803be11",
+  "sig": "LKVlNLkYlXq7DqPMwMXBsonJIB1IU5pTl+ozGMGpaqkxRp+Gtlq/QKsk0ArknGP+VYfylixHa+bpBpKuhOlLtTwf/CG3cMkpd7AKCjLVAUTjVYOa5axlGNAZXAN+JSShOo3hlZaMzUKr4s0ztpz/fFONiPDXc0C+FmQXhLRE32F29dhXPn051LnGMjfO7Zy6vmlZX5TvJtebRpHsWOMXRPeuejyKi2qtXdb7RBOdo0rnGBH97nj7kVc9Uxw+ykdwvNiSPyZTRfg/YhjE6mekFqdBXI9qz/1p9sHWmH8JzTpWA+oDTqED/aU+IBkzMD7+30mMrX/95o84fnowtMGNVK0DL5MJ8MUfN9kXtv+w5qlrFD9vitCpakplU+JomGFxOQLNIQhfNoyZW3aysUw1EUZPqNDbfnwFkU6A0yjtFvERJGPXZC9Nca2Ycb+7gLDvCjZTH4bf5np8NxD5rU0o6u+sRAXCYbAsm31Dxi3KWqF6q7dscgLrOklYKV84mKdY"
+}
