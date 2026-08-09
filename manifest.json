@@ -1,0 +1,9 @@
+{
+  "version": "3.1.3",
+  "systemType": "RigNegar",
+  "file": "firmware-3.1.3.enc",
+  "encSize": 1464400,
+  "plainSize": 1463888,
+  "plainSha256": "aa242bdf05f751d8862ad36f425927f1ccfc3e9f43bc6baa4c126fd500c8a56b",
+  "sig": "OMjaOzVGbXzR6PYRZUA88/zbYvQ+meD9hS5SK9vCGrLPNGtJG2x3PlB6Y0C5scKTDwTay4YcWTGKXjSd7GEYNihG6Y9VDEf1aoqDCnwjeKHVF8lmw4mg/tJcLhydXk/kFUmV3e+4s2W9cM5EVTJsR+/13edBnJC8SioiAiDGU9IU1jnuba2Ras/cx6LGpf3ZJ+EI20UDwmSWFYwdiMfZDRTeF2K04g8/2gw3qHmeRRYUgI7cGfTqFp5me0hAqgrikrBMfALfmYFpBq1YsKyq4HgMMl2u980uy6QDUDS5QQXAJFn8FpRkpTXt6fystyqjSud8At8kFIoazcJZOKNZL3CAtg3VT2xwPf7BFMsNIgKOKQtiLu0oCytYujN0WPAbJGiv4saG5cPXbXUEDHfLuiSM4kzOijG2iQf5Xug346bnKLDO17f/ri6enBoWLojRtpr8wJan5rb/PA4pFkHBp73R2XYWsDkmH3x1JCARS6d3W1Qq5tSKopOnfti5NYU/"
+}
