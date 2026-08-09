@@ -1,9 +1,0 @@
-{
-  "version": "3.1.4",
-  "systemType": "RigNegar",
-  "file": "firmware-3.1.4.enc",
-  "encSize": 1464496,
-  "plainSize": 1463984,
-  "plainSha256": "f904d5ef17b9283420f958a0d18d92a3470fd8479e90dd1d51ce12b4e7d00383",
-  "sig": "lcfQWjfhq7QfDpHxrTrerOSul0QUR9vNCmHGPZq279B4r6hHPujGw0pinORz6i+O0mPcstjKgeS3C3DZR5ZYYwz7viGsXHcsP46Mke+Ir3CofGIfWidUDJxE03odhtK67caz835qYMfCMNhdu9iLOS75T8Uqr6OjYl97iOQb/wThZuPn8DbZFCv917iiFwK+S14FRyXc+nCaVbaNMf6zbv+l46WeJSOFFjcqESaPKFio/MEQuDB1bMcZ9m3B5yNinA2aWYn24pDn2xE62YpuWp6F4Z6hws4kmEaTOMzxSW3xGWfo0q9Xb8hW+XIfuuINAydv+8GEzBd44Lzjm7pNzQdeNKMojmxMXAYSGjZq9twTRoBCGM0vWFnzfFQLrIdyoKLRwRjPhLeBKzVMBR+hzb/feM7tEJwhVmaAuaD41TE5g8Nw8IzBRqZAyRlFKt57kAraWzEYrPyl20LCRTBlRrlvkC9F1L6p61kCGBcKOb9BqomUew+hwxIGF3FEFnly"
-}
