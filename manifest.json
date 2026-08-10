@@ -1,9 +1,9 @@
 {
-  "version": "3.1.5",
+  "version": "3.1.6",
   "systemType": "RigNegar",
-  "file": "firmware-3.1.5.enc",
-  "encSize": 1464992,
-  "plainSize": 1464480,
-  "plainSha256": "b10503b85b7175f7e10c01e9e13ad4cf4f2c1e8dd82c304cd1b2a77c87b6dbd7",
-  "sig": "G9ElpLa5HuW/KTBIPQOW5VnxhfqbY1ehLjc1n871tGdD9gO0sAuv5M653RThSSSpSrOS7OT5L1Kq/FnCIBfrNaROY4eXd24sEgJJ3rPEuuqHYh6C6rtpg4PTg1/zr02hDSSNaMahaqJzRQZFRlPmD8Ow+pGP09dklrPiWlyg7YsKi327FNc03l9V8cLVw+ophkSJzrTrB9adJoBvJl/pWCTL6w0tZm0iZjOlKtb1bGsl8Yx4Gp7eknONtI2YQ1G47zlT7sZLbGiwmjiFfH75gNziGIw5hh3mPqpTAJ13pYGrCYv7f03sdGbW7GTcTCJpMSoQTPRHy9r6IL4r2ScufuXpZL2ji436XIaqtbd8IhE5BymCqFNagXoMiS+OpGebSachsL6jLfQkYuymOYUHhH3fu/zUm2TBRC134BCVfU24lEc3CSW4DIOAYeTaecZaPQGRvmqZfuilX8lqUIXkJcKUtLMTIDeJDk69/0eJP7W2STPiS9elmhuKjCehCvVR"
+  "file": "firmware-3.1.6.enc",
+  "encSize": 1466752,
+  "plainSize": 1466240,
+  "plainSha256": "f44663cb9f6d77b15827de7dcff161793fc458390444331ffcbc9b68687eb5ec",
+  "sig": "a68b6akMJfrfN1jdyS1bfREvJ4na0g0F/d6ZEJwGzYlbiNP6Ie/c8olp1Uc7Nvrqq3iyltI1cdRdbw+P+T3E/QX0KZXtpvzo6IKtz6atojrNftq6itX3VAIYIGsdK28CHbQnsOUTFAp5N35pbiJ5Z6eTTwFuKqPkD471+iX0e3Uw95k/oBpEeiOoB9RVmV1zN7upFGd5sO0W3+nOoY8Lalq2CnQ4HdJG6Qyf0fotDz2ecmjoUzY5tcr9I3SuwQBVv2gdxEbEcsVHD8Mh0xQEkI1xLqzmKscE2whOTqU/DlA1cbxOnGD0IL+GpMl98Vb+HSpJECvReBkNm9HgrEnOoziObGrEcNHGD+xkuxMOwrkYPjDJpxSBpZ+3HyITBlnfkjFbOgfSvzB+YbrdQ4dUzM4ha4Ed3N9SmCMljF4ER8+qJM8jYedp7pt6QDpILUBIh+y+BLK8H1IssupY1eRrLrdrWdwCTERWh+gnwMYHa1m6p2dSKQy5KR9hbHcmPsF/"
 }
