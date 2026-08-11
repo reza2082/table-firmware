@@ -1,9 +1,9 @@
 {
-  "version": "3.1.7",
+  "version": "3.1.8",
   "systemType": "RigNegar",
-  "file": "firmware-3.1.7.enc",
-  "encSize": 1468928,
-  "plainSize": 1468416,
-  "plainSha256": "9b3a628ef9202e946d780a526ea971ce90b5fc7940a6b236b4fa82ea580c0172",
-  "sig": "atziUH71wOW4TZrDlVsfnGSM7uBpLOg92zPHbn+miaW3hkvb2WlfOT6CXJpr35iIxfWGZ6WOAsplNMgf8CSNlNfcfoxkLxEsFP7Ra5AAw719PiXLqychbbArpN+JvFstr7pwZJIf/CZXPgodrkshX+md4A5NeGLm19vpBV5WORQ0wvEEK7xBB3SkJ/W8Ti/EP+v2IWRMCybe7f/tNXQj7XrNN9OxZS8M5m3L2/EIuFax+x83cin8lTUCDDRO7N7/WBPftmsKxKNwyPTc6i0hWnp0q4LESj76OtQxxwOT7tMP/gCPI+sdIlJLUCQsXaWRliZopLM9i04hTK7VBEo1B2PMQI+TesXFP+IMazxuymc1RphQvlPhbJDpjOfRFNsbG+Tg3iQTqtEGr5AWjjEFkl0nK0S4kJeMB75cI4Uw+HzDuOaAxUm3yC1NN8al/F/MtJiMbYiDhBFIFPgRmAt2CCEfwiegY70H8h0xWTwg7fUwyjbBFnta5Ni9wyZX7xe9"
+  "file": "firmware-3.1.8.enc",
+  "encSize": 1455968,
+  "plainSize": 1455456,
+  "plainSha256": "dbdb588db07f08617e87529417e0e0af427eedc239a73e81203f15c3ef327cd4",
+  "sig": "XRLBPUgtcquTowqjKuglE0Y8fTqv8TymarXP2f8s8bi784grSlAzysT1q0+EldVxkyuhQKm2PCOqyMdSq0ugme4MsXNjstBnI90JkU+AGUboWNhohTEfYXEjBjekcjzgW2SGf3xrJHlh+VByK1Y97M4eCzGsOgpbtcPd6NOaoYBkzDObj3eG81mwzIRcASqJlBNv4aF8AUGFxwiyOgo4JCa7ACl/HtffKMMC4HEE4mO2LXwn9tcGfTkOrR42v6BE81Tqvrz82BvsHAQFMmacPkSwSsCnPFbuSGTjXg/UvwzN3WPT7jphiwrvVjfdcJHqfQ4b4KFvph8YuPPhTJdPSJLOc5/v9kVLc2tCvGfjAe/OPOymE9yhclolIaeo139NDT2nb9Ek5trnGgGEYSGwoaVIpSnFfDDcvE2SHFtARC+PjO6+cY0nh/ob13Mq8S3ucSmEAaSh4WFvS6EC6B+G2KGbsJM/Vp6Vzaltxi/LBAhP0TWP57+q+AtuDc8Q+NtG"
 }
