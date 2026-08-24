@@ -1,9 +1,9 @@
 {
-  "version": "3.1.21",
+  "version": "3.1.22",
   "systemType": "RigNegar",
-  "file": "firmware-3.1.21.enc",
-  "encSize": 1461376,
-  "plainSize": 1460864,
-  "plainSha256": "9e2a002fae1e473f0976071a0b198e9d1622e5e1282afd8c3147af954fd6e3d1",
-  "sig": "cCQc7Pkkp1bHs86KTkjMj+ingu+XQ6ieoU26zF+zM2svxo9xu714rwFQTspP/cB8XqAUBdgYBPy+mPHx4RUOBnnstwcw0iy2PLQEEa4igoVZzgHwwZ2DLdtgQD5sF7JnYgX+cCG9DqyAAns9I+2qXh3ZmLDlxmkApXxMse4E3y1g2x84V2b5C4jhJTt4cscibp+3y1uoQj4UPH3e7uIpz+Z+8TqZByo2Xhm+80ZL4BHmzBYrhxdG2WImepuNFbJUvgg8o48R2OguVrXSSzUkpTZ8ogrZ8Znw2KZoxCQMhpzMOf1t6rdQ5zLCYhJurc/bpd+Xo30PWmUnUBywomwdRcOIPTpPqh53Ylrxt+u7cU0UpPFH8N9Lntd275O//toUdzF8EKZub3sHDrsWBcxs/UtC/Fhoy/Md0cHvD2zyrSWcIFfUCQRugKpgSwH4p1Wxe5pBl/cYmu3dVm8wKRPq6X4KyKHttrURoR5+SespiJA9Moj2tIaMAJym9imn7kTW"
+  "file": "firmware-3.1.22.enc",
+  "encSize": 1463616,
+  "plainSize": 1463104,
+  "plainSha256": "7c85e8836cbda6cc8f2facd78601f3b38a6d02a3dfc8bca64102cd81cdb33f4b",
+  "sig": "y8+nOdR7LnHOQk+92ntH5+JohtiaiupYbktaQ4umnYO5DRi1uUw/OZ9T+jfANHnUT9Hp2OEVxVa2MGHNmrAnohWvDicJNwqX5jiG6qCOjm8qozwbl+TEcisvvxp91dH1aR3kg9eJdYCLz98XqKR1ptuwATL7xpT+IrBSMbQK7VAg238IJ+ocNIciVLtnBZotkg48uzGYDpMYJdxOPiLht/gLY/UMFsFqXZDyuRSTfJU0Z+GctdxD4ntS/I99fLfzehiGMJAFAx9ivsImn97KaINf+/SsQQ1yOOM//ay6Zq2dH9JXvKwkiBP72bU98IBoMF7sS9D5jkcYOcY4C2imvhzd1xdlflM4nMuTQClOPfsmB7ndxta1RwcUncZc0FlJ1IwmSKv59XxyZQEuzi/P/rmIbCBHw1+zKs9x5ZaUDue/yIbjbvsjeZPV6mbJXyn0sSWj+kp9kRI3jpPO1kBvzZXRakW+qKjWzv735WVSucRf0uIFwhcPd+yzfmFu4e/k"
 }
