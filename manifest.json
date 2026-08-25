@@ -1,9 +1,9 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "systemType": "RigNegar",
-  "file": "firmware-3.2.1.enc",
-  "encSize": 1400448,
-  "plainSize": 1399936,
-  "plainSha256": "880e48e5036c00f68ab68dbcbb90f3f865e6c9d8eee7a401583a406ed2cf28d9",
-  "sig": "sF4kTt5wB671knCKVCj9cA2HkgrO1PkHbVpPoCyQsH79bjyeAaltZXhV3E5DOlt7kQfWh4DEAlnBhFM+eM5+Ksmgu+TKcEJGb7Qy0gTIF2/EuqiqqK1WIrlA7xvnZq+1wK+hjKKH+IdK0nmMc7c4HX6FXFF/OF1WKYAboKrhtLBfaykYITU/ABMjDScbYN5cg/wq45D0rz7rmi5CUZcNfd63JMnqwHRUoVQJFIbbtUoUi0vE+bxlmVk4ANAsz6vAB3PK6tQnHu6TukL8/4uF4Os9MD8/ACicqoaKfDumsv6yVjycPApVecFAsUMCM/S9UJDM2vEhmBNMqLUDBoF3Wj4tJ/QmDshwc+7b0HKbtUFLAXSIkalcHsMAlsqMbVciOYtAoFLmpooOwNhyKFrmn9wvSRCOzIQIcWxbZrEE6ln8Px7hBe0dEjUqx/pvF2E9T8CxS46+YMfYc5SuuIlilKD/S3qQLON0I7vVTCxh0HH14zjnkXqMhPAjYoYpeRRX"
+  "file": "firmware-3.2.2.enc",
+  "encSize": 1397568,
+  "plainSize": 1397056,
+  "plainSha256": "bdb4981eea04985c12635d5be2a1219038731d65af1be6f8a6cedb59f34b1e30",
+  "sig": "PMUFSpOKB7a7maueDNhlQBtcNjKvFSAlY+tm4bo5elbmrkii2U55e4Xa1y3O1TCc8HckEivWqG7JFi6HqPeKBXQ3bRtEbqyBok+rg79sbb+leD+WqEEvY//WSgVu8zfhCe0d2RoFkiYqYh+/JnqKzb1C5F1679Stmg+qlcK7jeh5HkPkX917eqiDulyYjic9EZ1QCiYBvQ8TYfdrHK3T5INBuEGNdYfZPy5dRf/1o8tTtP0MYC11inPuzAMHcroYn96DeQIIZtzGVfEEdBbky7JKZb+Qse9yZOQVYdl7DOfzuOqCoVU/1hYspg+c/wzHdnhidznXJuCEX8QR49CBrdN6jPvNGiNtpvqFZLslILtUUxVJXeGpZAXtItHjyZXXkJ6nnpgjCZdqG5ghuFKxLiEb5tbHXKIWUrNmRPD/xKsW17m1otSc3xiQyGCM3dHqeFrpvboMXEJFFn8qtHEe2/jlurR+XYx6R6nMzUSUlvW+5pQnFPlfQO1AhWWF4a/3"
 }
